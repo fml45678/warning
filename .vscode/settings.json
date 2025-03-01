@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/kingcomp/esp/esp-idf",
+  "idf.pythonInstallPath": "/usr/bin/python3",
+  "idf.espAdfPath": "/Users/kingcomp/.espressif/esp-adf",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.port": "/dev/tty.usbserial-1460",
+  "idf.toolsPath": "/Users/kingcomp/.espressif",
+  "idf.flashType": "UART"
+}
